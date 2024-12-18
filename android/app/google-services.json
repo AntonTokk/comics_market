@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032086635585",
+    "project_id": "comics-market-98112",
+    "storage_bucket": "comics-market-98112.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032086635585:android:b8aac6f56421d189c4f2c0",
+        "android_client_info": {
+          "package_name": "com.example.comics_market"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDoMqmX8q7qEJayKfPyz3GnkeNzIeiyEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
